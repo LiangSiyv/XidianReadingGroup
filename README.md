@@ -32,7 +32,11 @@
 
 ### 读书会组织形式及文档
 
-文档主要分为几个部分，[人员分配]([https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D.md](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/人员任务分配.md "人员分配"))、[宣传](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E7%9B%B8%E5%85%B3%E7%89%A9%E6%96%99%E5%AE%A3%E4%BC%A0.md)及[举办流程](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B.md)。为了明确召开活动的计划，方便各项工作实施没有遗漏，还建立了TimeLine，记录各事项的执行时间。
+文档主要分为几个部分，在WorkFiles文件夹中，我们记录了活动的[人员分配](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D.md)、[宣传](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E7%9B%B8%E5%85%B3%E7%89%A9%E6%96%99%E5%AE%A3%E4%BC%A0.md)及[举办流程](https://github.com/LiangSiyv/XidianReadingGroup/blob/master/WorkFiles/%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B.md)相关事项。为了明确召开活动的计划，方便各项工作实施没有遗漏，还建立了TimeLine，记录各事项的执行时间。
+
+在Record_Text_Files文件夹中，我们记录了每次活动的宣发文本，还有相关文本文件中记录了活动前的群内发送邀请内容等。
+
+
 
 ### 文档编辑方式
 
